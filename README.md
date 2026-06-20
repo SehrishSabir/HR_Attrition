@@ -136,6 +136,7 @@ Dashboard Preview
 **Salary & Job Role Analysis**
 
 ![Dashboard](HR_Analyst/Dashboard_Screenshots/Travel.jpg)
+
 **Travel and Experience Analysis**
 
 ![Dashboard](HR_Analyst/Dashboard_Screenshots/Workforce.jpg)
