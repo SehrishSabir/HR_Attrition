@@ -24,22 +24,24 @@ Excel**
 
 **Dataset Information**
 
-**Dataset: HR Employee Attrition Dataset**
+Dataset: HR Employee Attrition Dataset
 
-**Total Employees: 1470**
+Total Employees: 1470
 
-**Employees Left: 237**
+Employees Left: 237
 
-**Overall Attrition Rate: 16.12%**
+Overall Attrition Rate: 16.12%
 
 **Dashboard Pages**
-**Page 1 – Overview
+
+**Page 1 – Overview**
+
 KPIs
 Total Employees
 Attrition Count
 Attrition Rate
 Average Salary
-Average Years at Company**
+Average Years at Company
 
 **Dashboard Pages**
 
