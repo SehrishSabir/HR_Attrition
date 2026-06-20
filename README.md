@@ -130,17 +130,15 @@ Dashboard Preview
 
 Overview Dashboard
 
-![Dashboard](HR_Analyst/Dashboard_Screenshots/.Salary&JobRolejpg)
+![Dashboard](HR_Analyst/Dashboard_Screenshots/Salary&JobRole.jpg)
 
 Salary & Job Role Analysis
 
 ![Dashboard](HR_Analyst/Dashboard_Screenshots/Travel.jpg)
 
-Workforce Behavior Analysis
 
-![Dashboard](HR_Analyst/Dashboard_Screenshots/Workforce.
-jpg)
-
+![Dashboard](HR_Analyst/Dashboard_Screenshots/Workforce.jpg)
+**Workforce Behavior Analysis**
 
 **Repository Structure**
 
@@ -180,7 +178,7 @@ Data Visualization
 
 **Author**
 
-**Sehrish Sabir
-**
+ **Sehrish Sabir**
+
 **Aspiring Data Analyst**
 
