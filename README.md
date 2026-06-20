@@ -130,10 +130,10 @@ Dashboard Preview
 
 ![Dashboard](HR_Analyst/Dashboard_Screenshots/Overview.jpg)
 
- **Overview Dashboard**
+**Overview Dashboard**
 
 ![Dashboard](HR_Analyst/Dashboard_Screenshots/Salary&JobRole.jpg)
-     **Salary & Job Role Analysis**
+**Salary & Job Role Analysis**
 
 ![Dashboard](HR_Analyst/Dashboard_Screenshots/Travel.jpg)
 **Travel and Experience Analysis**
